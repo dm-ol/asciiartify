@@ -1,2 +1,2 @@
 ### AsciiArtify MPV Demo
-![](AA.mp4)
+![](AA.gif)
