@@ -1,6 +1,6 @@
 ## Minikube vs. k3d vs. kind comparing table
 
-|		| Minikube | k3d | kind
+|  | Minikube | k3d | kind
 |--|--|--|--|
 | Developer | Kubernetes SIG | CNCF _(Rancher)_ | Kubernetes SIG |
 | Installation complexity | 1/5 | 3/5 | 1/5 |
